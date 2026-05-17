@@ -132,15 +132,6 @@ Predicts future trends using historical growth patterns.
 
 ---
 
-## Team Information
-
-- **Team Number:** 69
-- **Project Title:** Personal Finance Tracker with Forecasting and Visualization
-- **Course:** ICS 214 – IT Workshop III
-- **Team Member:** Mohammed Sinan
-
----
-
 ## References
 
 - https://streamlit.io
