@@ -1,0 +1,75 @@
+date,type,category,amount,notes
+2025-01-01,Income,Salary,50000,January salary
+2025-01-02,Expense,Groceries,3200,Supermarket shopping
+2025-01-03,Expense,Transport,1200,Bus and metro pass
+2025-01-04,Expense,Utilities,2500,Electricity bill
+2025-01-05,Expense,Entertainment,1800,Movie and snacks
+2025-01-06,Expense,Food,900,Restaurant dinner
+2025-01-07,Income,Freelance,8000,Website project payment
+2025-01-08,Expense,Shopping,4500,Clothes purchase
+2025-01-10,Expense,Healthcare,1500,Medical checkup
+2025-01-12,Expense,Education,2000,Online course fee
+2025-01-15,Income,Bonus,5000,Performance bonus
+2025-01-16,Expense,Rent,12000,Monthly house rent
+2025-01-18,Expense,Internet,1000,Broadband recharge
+2025-01-20,Expense,Travel,3500,Weekend trip
+2025-01-22,Expense,Food,700,Cafe expenses
+2025-01-25,Income,Investment,3000,Stock dividends
+2025-01-27,Expense,Groceries,2800,Monthly groceries
+2025-01-29,Expense,Entertainment,1500,Concert ticket
+
+2025-02-01,Income,Salary,52000,February salary
+2025-02-02,Expense,Groceries,3400,Supermarket shopping
+2025-02-03,Expense,Transport,1300,Taxi and fuel
+2025-02-05,Expense,Utilities,2600,Electricity and water bill
+2025-02-06,Expense,Entertainment,2200,Gaming subscription
+2025-02-08,Income,Freelance,7000,Logo design project
+2025-02-09,Expense,Shopping,3800,Shoes purchase
+2025-02-10,Expense,Healthcare,2000,Dental treatment
+2025-02-12,Expense,Education,1800,Programming books
+2025-02-14,Expense,Food,2500,Valentine dinner
+2025-02-16,Expense,Rent,12000,Monthly rent
+2025-02-18,Expense,Internet,1000,WiFi bill
+2025-02-20,Expense,Travel,4200,Train tickets
+2025-02-22,Income,Investment,3500,Mutual fund return
+2025-02-24,Expense,Groceries,3000,Household items
+2025-02-25,Expense,Entertainment,1600,Music concert
+2025-02-27,Expense,Food,950,Takeaway order
+
+2025-03-01,Income,Salary,54000,March salary
+2025-03-02,Expense,Groceries,3600,Monthly groceries
+2025-03-03,Expense,Transport,1500,Fuel refill
+2025-03-04,Expense,Utilities,2800,Electricity bill
+2025-03-05,Expense,Entertainment,2000,Cinema tickets
+2025-03-07,Income,Freelance,9000,App development project
+2025-03-08,Expense,Shopping,5000,New headphones
+2025-03-10,Expense,Healthcare,1200,Medicines
+2025-03-12,Expense,Education,2500,Certification exam
+2025-03-14,Expense,Food,1100,Restaurant lunch
+2025-03-15,Income,Bonus,6000,Quarterly bonus
+2025-03-16,Expense,Rent,12000,Monthly apartment rent
+2025-03-18,Expense,Internet,1100,Internet recharge
+2025-03-20,Expense,Travel,4500,Flight booking
+2025-03-22,Expense,Groceries,3100,Vegetables and fruits
+2025-03-24,Income,Investment,4000,Investment returns
+2025-03-26,Expense,Entertainment,1700,Theme park visit
+2025-03-28,Expense,Food,850,Fast food
+2025-03-30,Expense,Utilities,900,Gas bill
+
+2025-04-01,Income,Salary,55000,April salary
+2025-04-02,Expense,Groceries,3700,Monthly groceries
+2025-04-03,Expense,Transport,1600,Petrol expenses
+2025-04-05,Expense,Utilities,3000,Electricity and water
+2025-04-06,Expense,Entertainment,2400,OTT subscriptions
+2025-04-08,Income,Freelance,8500,UI design project
+2025-04-10,Expense,Shopping,4200,Accessories purchase
+2025-04-12,Expense,Healthcare,1800,Hospital consultation
+2025-04-14,Expense,Food,1300,Family dinner
+2025-04-16,Expense,Rent,12000,Monthly rent
+2025-04-18,Expense,Internet,1000,WiFi recharge
+2025-04-20,Expense,Travel,5000,Vacation booking
+2025-04-22,Income,Investment,4500,Stock profit
+2025-04-24,Expense,Education,2200,Workshop fee
+2025-04-26,Expense,Entertainment,1900,Bowling night
+2025-04-28,Expense,Groceries,3200,Supermarket visit
+2025-04-30,Expense,Food,950,Coffee and snacks
