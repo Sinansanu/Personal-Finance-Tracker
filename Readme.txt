@@ -1,34 +1,36 @@
 # Personal Finance Tracker
 
-A Python + Streamlit based finance management system to track income and expenses, analyze spending, visualize financial data, forecast future savings, and generate downloadable reports.
+Personal Finance Tracker is a Python and Streamlit based application used to manage personal finances efficiently.  
+It helps users track income and expenses, analyze spending habits, visualize financial data, forecast future savings, and generate downloadable reports.
 
 ---
 
 ## Features
 
-* Add and manage transactions
-* Income & expense tracking
-* Financial analysis and summaries
-* Forecast future savings
-* Generate charts and visualizations
-* Download PDF and CSV reports
+- Add and manage financial transactions
+- Track income and expenses
+- Analyze financial summaries
+- Forecast future savings
+- Generate charts and visualizations
+- Download PDF reports
+- Download CSV transaction data
 
 ---
 
 ## Technologies Used
 
-* Python
-* Streamlit
-* Pandas
-* Matplotlib
-* ReportLab
-* NumPy
+- Python
+- Streamlit
+- Pandas
+- Matplotlib
+- ReportLab
+- NumPy
 
 ---
 
 ## Project Structure
 
-```text id="4d49ud"
+```text
 personal_finance_tracker/
 │
 ├── app.py
@@ -39,6 +41,7 @@ personal_finance_tracker/
 │   └── logo.png
 │
 ├── charts/
+│
 ├── reports/
 │
 ├── modules/
@@ -53,65 +56,95 @@ personal_finance_tracker/
 
 ## Installation
 
-Install dependencies:
+### 1. Clone the Repository
 
-```bash id="el0ic7"
-pip install -r requirements.txt
+```bash
+git clone https://github.com/Sinansanu/Personal-Finance-Tracker.git
 ```
 
-Run the application:
+### 2. Navigate to Project Folder
 
-```bash id="q1ixfu"
-streamlit run app.py
+```bash
+cd Personal-Finance-Tracker
+```
+
+### 3. Install Required Libraries
+
+```bash
+pip install -r requirements.txt
 ```
 
 ---
 
-## Generated Features
+## Run the Application
 
-### Charts
+```bash
+streamlit run app.py
+```
 
-* Expense Pie Chart
-* Monthly Income vs Expense Bar Chart
-* Savings Trend Line Chart
+The application will run at:
 
-### Reports
+```text
+http://localhost:8501
+```
 
-* Downloadable PDF Report
-* Downloadable CSV Data
+---
+
+## Generated Charts
+
+- Expense Pie Chart
+- Monthly Income vs Expense Bar Chart
+- Savings Trend Line Chart
+
+---
+
+## Generated Reports
+
+### PDF Report Includes:
+- Financial Summary
+- Forecast Summary
+- Monthly Summary
+- Category-wise Expenses
+- Financial Charts
+
+### CSV Export Includes:
+- Complete transaction data
 
 ---
 
 ## Forecasting Methods
 
-* Moving Average Forecast
-* Trend-Based Forecast
+### Moving Average Forecast
+Predicts future values based on recent averages.
+
+### Trend-Based Forecast
+Predicts future trends using historical growth patterns.
 
 ---
 
 ## Future Enhancements
 
-* User Authentication
-* Cloud Database Support
-* AI-Based Financial Insights
-* Multi-Currency Support
-* Investment Tracking
+- User Authentication
+- Cloud Database Integration
+- AI-Based Spending Insights
+- Multi-Currency Support
+- Investment Tracking
 
 ---
 
 ## Team Information
 
-**Team Number:** 69
-**Project:** Personal Finance Tracker with Forecasting and Visualization
-**Course:** ICS 214 – IT Workshop III
-**Team Member:** Mohammed Sinan
+- **Team Number:** 69
+- **Project Title:** Personal Finance Tracker with Forecasting and Visualization
+- **Course:** ICS 214 – IT Workshop III
+- **Team Member:** Mohammed Sinan
 
 ---
 
 ## References
 
-* [Streamlit](https://streamlit.io?utm_source=chatgpt.com)
-* [Matplotlib](https://matplotlib.org?utm_source=chatgpt.com)
-* [ReportLab](https://www.reportlab.com?utm_source=chatgpt.com)
-* [Pandas](https://pandas.pydata.org?utm_source=chatgpt.com)
-* [Python](https://python.org?utm_source=chatgpt.com)
+- https://streamlit.io
+- https://matplotlib.org
+- https://www.reportlab.com
+- https://pandas.pydata.org
+- https://python.org
